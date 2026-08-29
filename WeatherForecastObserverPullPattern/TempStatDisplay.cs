@@ -12,6 +12,7 @@ namespace WeatherForecastObserverPullPattern
         public TempStatDisplay(WeatherForecastStation station)
         {
             _station = station;
+            _station.AddSubscriber(this);
         }
         public void Update()
         {
