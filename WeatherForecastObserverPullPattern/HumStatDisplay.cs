@@ -5,7 +5,8 @@
         private WeatherForecastStation _station;
         public HumStatDisplay(WeatherForecastStation station)
         {
-            _station = station;   
+            _station = station;
+            _station.AddSubscriber(this);
         }
         public void Update()
         {

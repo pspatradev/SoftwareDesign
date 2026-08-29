@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="CheckoutServiceAbstractFactory/CheckoutServiceAbstractFactory.csproj" />
+  <Project Path="LogisticsServiceFactoryPattern/LogisticsServiceFactoryPattern.csproj" />
+  <Project Path="OrderSimulator/OrderSimulator.csproj" />
+  <Project Path="ParkingLotConsole/ParkingLotConsole.csproj" />
+  <Project Path="PaymentSimulatorStrategyPattern/PaymentSimulatorStrategyPattern.csproj" />
+  <Project Path="PizzaSimulatorDecoratorPattern/PizzaSimulatorDecoratorPattern.csproj" />
+  <Project Path="SoftwareSimulator/SoftwareSimulator.csproj" />
+  <Project Path="TestConsole/TestConsole.csproj" />
+  <Project Path="TransportSimulator/TransportSimulator.csproj" />
+  <Project Path="WeatherForecastObserverPullPattern/WeatherForecastObserverPullPattern.csproj" />
+  <Project Path="WeatherForecastSimulatorObserverPatternPush/WeatherForecastSimulatorObserverPatternPush.csproj" />
+</Solution>
